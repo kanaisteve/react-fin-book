@@ -1,4 +1,4 @@
-# Building a Finanical App
+# Building a Personal Finanical App
 <p>
   <img src="client/public/homepage.png" alt="Financial Book" />
 </p>
